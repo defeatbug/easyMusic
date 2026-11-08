@@ -1,0 +1,707 @@
+{
+  "ranAt": "2026-11-08T06:00:06.234076",
+  "source": "live plugin run: home() + browse(charts) + playlist(热歌榜)",
+  "home": {
+    "title": "发现音乐",
+    "subtitle": "网易云音乐",
+    "sections": [
+      {
+        "title": "为你发现",
+        "links": [
+          {
+            "title": "每日推荐",
+            "subtitle": "根据你的听歌偏好推荐",
+            "page": "daily"
+          },
+          {
+            "title": "排行榜",
+            "subtitle": "发现正在流行的音乐",
+            "page": "charts"
+          }
+        ]
+      },
+      {
+        "title": "推荐歌单",
+        "playlists": [
+          {
+            "id": "10133066236",
+            "name": "经典粤语老歌300首怀旧歌曲",
+            "imageUrl": "https://p4.music.126.net/UU1NkSfL1FmkgmnTMpvISg==/109951169655889830.jpg",
+            "description": "",
+            "owner": "",
+            "trackCount": 351,
+            "mine": false,
+            "saved": false,
+            "coverAsset": "assets/capture/covers/cov000.jpg"
+          },
+          {
+            "id": "18245563120",
+            "name": "古风丨清曲入梦，于乐声里邂逅风月山河",
+            "imageUrl": "https://p3.music.126.net/47zil_76tGIV2xXxyYekZQ==/109951173734229896.jpg",
+            "description": "热门歌单推荐",
+            "owner": "",
+            "trackCount": 107,
+            "mine": false,
+            "saved": false,
+            "coverAsset": "assets/capture/covers/cov001.jpg"
+          },
+          {
+            "id": "18394023899",
+            "name": "R&B｜夜航星光慵懒转音浪漫精选集",
+            "imageUrl": "https://p4.music.126.net/iYinkPIpEdmKL-RUQZCzcw==/109951173973168167.jpg",
+            "description": "热门歌单推荐",
+            "owner": "",
+            "trackCount": 26,
+            "mine": false,
+            "saved": false,
+            "coverAsset": "assets/capture/covers/cov002.jpg"
+          },
+          {
+            "id": "18455389310",
+            "name": "连麻swimming | 用独特声线唱出破碎的情绪",
+            "imageUrl": "https://p4.music.126.net/u6frmV7ZsnF53Odw1LBB0A==/109951174081277182.jpg",
+            "description": "热门歌单推荐",
+            "owner": "",
+            "trackCount": 111,
+            "mine": false,
+            "saved": false,
+            "coverAsset": "assets/capture/covers/cov003.jpg"
+          },
+          {
+            "id": "18236813707",
+            "name": "Kpop万花筒｜窥见韩国流行音乐之斑斓",
+            "imageUrl": "https://p4.music.126.net/HlbAe9ZoAbFBzM8Y7i1bkg==/109951173742531720.jpg",
+            "description": "热门歌单推荐",
+            "owner": "",
+            "trackCount": 30,
+            "mine": false,
+            "saved": false,
+            "coverAsset": "assets/capture/covers/cov004.jpg"
+          },
+          {
+            "id": "18433723172",
+            "name": "【ヨルシカ】高三时光有你陪伴真好~",
+            "imageUrl": "https://p3.music.126.net/p8P43GHEJSZCkGcfUg0BTg==/109951174029682494.jpg",
+            "description": "热门歌单推荐",
+            "owner": "",
+            "trackCount": 47,
+            "mine": false,
+            "saved": false,
+            "coverAsset": "assets/capture/covers/cov005.jpg"
+          },
+          {
+            "id": "18406326619",
+            "name": "KPOP怨夫风 | “你凭什么认为我不爱你了”",
+            "imageUrl": "https://p3.music.126.net/JIfClmgdZlAvEN0ehZ6tcQ==/109951173986861066.jpg",
+            "description": "热门歌单推荐",
+            "owner": "",
+            "trackCount": 49,
+            "mine": false,
+            "saved": false,
+            "coverAsset": "assets/capture/covers/cov006.jpg"
+          },
+          {
+            "id": "18396030323",
+            "name": "流行Rap｜晴天不打烊，说唱正开场",
+            "imageUrl": "https://p4.music.126.net/mBhdYTqnM2X9RIgPd4z4ig==/109951173972072053.jpg",
+            "description": "热门歌单推荐",
+            "owner": "",
+            "trackCount": 30,
+            "mine": false,
+            "saved": false,
+            "coverAsset": "assets/capture/covers/cov007.jpg"
+          },
+          {
+            "id": "18383639285",
+            "name": "浪漫R&B｜贝斯低语 心跳替旋律回答",
+            "imageUrl": "https://p3.music.126.net/2QJnLX-Q94HIsxhQdga4aA==/109951173973977988.jpg",
+            "description": "热门歌单推荐",
+            "owner": "",
+            "trackCount": 31,
+            "mine": false,
+            "saved": false,
+            "coverAsset": "assets/capture/covers/cov008.jpg"
+          },
+          {
+            "id": "18215264075",
+            "name": "Kpop | 耳机里的平行宇宙 感性发射站",
+            "imageUrl": "https://p3.music.126.net/GIo6PX3JYBKcloxCy38Cgw==/109951173690123345.jpg",
+            "description": "热门歌单推荐",
+            "owner": "",
+            "trackCount": 25,
+            "mine": false,
+            "saved": false,
+            "coverAsset": "assets/capture/covers/cov009.jpg"
+          },
+          {
+            "id": "18238737898",
+            "name": "日式情书歌集 / 你是我说不出口的永远",
+            "imageUrl": "https://p4.music.126.net/o54q3-S5AYtoAYfYoT2sIQ==/109951173742535563.jpg",
+            "description": "热门歌单推荐",
+            "owner": "",
+            "trackCount": 27,
+            "mine": false,
+            "saved": false,
+            "coverAsset": "assets/capture/covers/cov010.jpg"
+          },
+          {
+            "id": "18439897777",
+            "name": "【个人向】中术百p一人一曲【已排序】",
+            "imageUrl": "https://p4.music.126.net/2MVM9CWszL74jvLkKZWnFQ==/109951174039856001.jpg",
+            "description": "热门歌单推荐",
+            "owner": "",
+            "trackCount": 100,
+            "mine": false,
+            "saved": false,
+            "coverAsset": "assets/capture/covers/cov011.jpg"
+          },
+          {
+            "id": "18398870147",
+            "name": "R&B｜慢拍心跳，写给夜色与霓虹",
+            "imageUrl": "https://p4.music.126.net/7qTjsCFKxp4nM63jF7Yyhw==/109951173973399214.jpg",
+            "description": "热门歌单推荐",
+            "owner": "",
+            "trackCount": 35,
+            "mine": false,
+            "saved": false
+          },
+          {
+            "id": "18301117177",
+            "name": "慢生活背景音｜给紧绷的自己片刻放松",
+            "imageUrl": "https://p4.music.126.net/_QzqICMuHftV--7XC7kfSg==/109951173813999010.jpg",
+            "description": "热门歌单推荐",
+            "owner": "",
+            "trackCount": 58,
+            "mine": false,
+            "saved": false
+          },
+          {
+            "id": "18285486418",
+            "name": "昭和情书：霓虹雨夜的80年代浪漫切片",
+            "imageUrl": "https://p3.music.126.net/ELB07iIAjkWGoN5NPJnbBA==/109951173796793719.jpg",
+            "description": "热门歌单推荐",
+            "owner": "",
+            "trackCount": 27,
+            "mine": false,
+            "saved": false
+          },
+          {
+            "id": "18418709756",
+            "name": "海边R&B｜潮声把孤单轻轻推远",
+            "imageUrl": "https://p3.music.126.net/5DllZIhG4blJVAPFGmdTAQ==/109951174012280300.jpg",
+            "description": "热门歌单推荐",
+            "owner": "",
+            "trackCount": 29,
+            "mine": false,
+            "saved": false
+          },
+          {
+            "id": "18246491760",
+            "name": "Kpop · 耳机里的盛典 永不落幕",
+            "imageUrl": "https://p3.music.126.net/H4UaofGXPfna3BwtNHSCUw==/109951173766311029.jpg",
+            "description": "热门歌单推荐",
+            "owner": "",
+            "trackCount": 27,
+            "mine": false,
+            "saved": false
+          },
+          {
+            "id": "18446517930",
+            "name": "甜氧温柔系｜廿年心动简谱，原声吉他撩拨心",
+            "imageUrl": "https://p3.music.126.net/vQiJDUE4VgAxNVV-KtnSfQ==/109951174047581240.jpg",
+            "description": "热门歌单推荐",
+            "owner": "",
+            "trackCount": 49,
+            "mine": false,
+            "saved": false
+          },
+          {
+            "id": "18463200627",
+            "name": "卡戴珊显化｜宇宙吸引力法则 高能量来袭up!",
+            "imageUrl": "https://p3.music.126.net/ctDuBpkBIlxWxe8sH2z56A==/109951174070731415.jpg",
+            "description": "热门歌单推荐",
+            "owner": "",
+            "trackCount": 127,
+            "mine": false,
+            "saved": false
+          },
+          {
+            "id": "18464902152",
+            "name": "把音量调到舒服的位置，剩下的交给【funk】",
+            "imageUrl": "https://p3.music.126.net/XkK9bNOCBU4HSwZBHC-xLQ==/109951174072648814.jpg",
+            "description": "热门歌单推荐",
+            "owner": "",
+            "trackCount": 117,
+            "mine": false,
+            "saved": false
+          },
+          {
+            "id": "18470529992",
+            "name": "Indie新作藏馆｜允许我做不完美的怪人",
+            "imageUrl": "https://p4.music.126.net/QoZwjPq20PtJIoglEAx3Wg==/109951174102807271.jpg",
+            "description": "热门歌单推荐",
+            "owner": "",
+            "trackCount": 132,
+            "mine": false,
+            "saved": false
+          },
+          {
+            "id": "18474255777",
+            "name": "【2027终末回响】终末地音乐会（先行版）",
+            "imageUrl": "https://p4.music.126.net/1LFjuBPFs_8pFPRNIBmqsA==/109951174090004557.jpg",
+            "description": "热门歌单推荐",
+            "owner": "",
+            "trackCount": 34,
+            "mine": false,
+            "saved": false
+          },
+          {
+            "id": "18398839345",
+            "name": "R&B｜丝绒鼓点，把浪漫揉进夜色里",
+            "imageUrl": "https://p4.music.126.net/cLmgq4J7E9Iu8svwNj2OWg==/109951173973394231.jpg",
+            "description": "热门歌单推荐",
+            "owner": "",
+            "trackCount": 37,
+            "mine": false,
+            "saved": false
+          },
+          {
+            "id": "18292406836",
+            "name": "Kpop早安唤醒 | 今日份能量泵",
+            "imageUrl": "https://p3.music.126.net/UMeE6b8bflUiPVd0npnuzQ==/109951173814770655.jpg",
+            "description": "热门歌单推荐",
+            "owner": "",
+            "trackCount": 27,
+            "mine": false,
+            "saved": false
+          }
+        ]
+      }
+    ]
+  },
+  "charts": [
+    {
+      "id": "19723756",
+      "name": "飙升榜",
+      "imageUrl": "https://p3.music.126.net/rIi7Qzy2i2Y_1QD7cd0MYA==/109951170048506929.jpg",
+      "description": "云音乐中每天热度上升最快的100首单曲，每日更新。",
+      "owner": "",
+      "trackCount": 100,
+      "mine": false,
+      "saved": false,
+      "coverAsset": "assets/capture/covers/cov012.jpg"
+    },
+    {
+      "id": "3779629",
+      "name": "新歌榜",
+      "imageUrl": "https://p3.music.126.net/5guhqPBTcIrrhLBotgaT6w==/109951170048511751.jpg",
+      "description": "云音乐新歌榜：云音乐用户一周内收听所有新歌（一月内最新发行） 官方TOP排行榜，每天更新。",
+      "owner": "",
+      "trackCount": 100,
+      "mine": false,
+      "saved": false,
+      "coverAsset": "assets/capture/covers/cov013.jpg"
+    },
+    {
+      "id": "2884035",
+      "name": "原创榜",
+      "imageUrl": "https://p4.music.126.net/BaP9nrocNTL3gGThysv4eQ==/109951170091896587.jpg",
+      "description": "云音乐独立原创音乐人作品官方榜单，以推荐优秀原创作品为目的。每周四网易云音乐首发。申请网易音乐人：http://music.163.com/nmusician/",
+      "owner": "",
+      "trackCount": 100,
+      "mine": false,
+      "saved": false,
+      "coverAsset": "assets/capture/covers/cov014.jpg"
+    },
+    {
+      "id": "3778678",
+      "name": "热歌榜",
+      "imageUrl": "https://p3.music.126.net/0SUEG8yDACfx0Bw2MYFv4Q==/109951170048519512.jpg",
+      "description": "云音乐热歌榜：云音乐用户一周内收听所有线上歌曲官方TOP排行榜，每日更新。",
+      "owner": "",
+      "trackCount": 200,
+      "mine": false,
+      "saved": false,
+      "coverAsset": "assets/capture/covers/cov015.jpg"
+    },
+    {
+      "id": "71384707",
+      "name": "网易云古典榜",
+      "imageUrl": "https://p3.music.126.net/urByD_AmfBDBrs7fA9-O8A==/109951167976973225.jpg",
+      "description": "网易云用户一周内收听所有古典音乐官方TOP排行榜，每周四更新。",
+      "owner": "",
+      "trackCount": 100,
+      "mine": false,
+      "saved": false,
+      "coverAsset": "assets/capture/covers/cov016.jpg"
+    },
+    {
+      "id": "1978921795",
+      "name": "网易云电音榜",
+      "imageUrl": "https://p4.music.126.net/hXGObvXfsGtFjFvRhOYAkA==/109951170091888741.jpg",
+      "description": "网易云用户一周内收听电子音乐官方TOP排行榜，每周五更新，用先锋电音带你解锁全新维度和体验！",
+      "owner": "",
+      "trackCount": 50,
+      "mine": false,
+      "saved": false,
+      "coverAsset": "assets/capture/covers/cov017.jpg"
+    },
+    {
+      "id": "991319590",
+      "name": "网易云中文说唱榜",
+      "imageUrl": "https://p4.music.126.net/GgHbgDfGXHpE2YTchU7IvA==/109951171510498108.jpg",
+      "description": "网易云原创说唱音乐人作品官方榜单，每周五更新。以网易云用户一周播放热度为主，收录2个月内发行的原创说唱作品，按照综合数据排名取前50名。申请网易音乐人：http://music.163.com/nmusician",
+      "owner": "",
+      "trackCount": 50,
+      "mine": false,
+      "saved": false,
+      "coverAsset": "assets/capture/covers/cov018.jpg"
+    },
+    {
+      "id": "18512097939",
+      "name": "荣耀音乐热歌榜",
+      "imageUrl": "https://p4.music.126.net/KrEjItbh8PkIlaRMKP5lAw==/109951174149506005.jpg",
+      "description": "荣耀音乐用户收听线上歌曲的官方TOP排行榜，每日更新。",
+      "owner": "",
+      "trackCount": 200,
+      "mine": false,
+      "saved": false,
+      "coverAsset": "assets/capture/covers/cov019.jpg"
+    },
+    {
+      "id": "18478568150",
+      "name": "小天才热歌榜",
+      "imageUrl": "https://p3.music.126.net/GmmRZwOmh-DFwtF3TVJJrw==/109951174096842449.jpg",
+      "description": "",
+      "owner": "",
+      "trackCount": 200,
+      "mine": false,
+      "saved": false,
+      "coverAsset": "assets/capture/covers/cov020.jpg"
+    },
+    {
+      "id": "18176153161",
+      "name": "实时分享榜",
+      "imageUrl": "https://p4.music.126.net/b2-_Xw-6DwDXWIn7RNuCYQ==/109951173652479140.jpg",
+      "description": "以网易云音乐站内最近一小时的歌曲分享人数真实数据为唯一依据，每小时更新，实时反映当下最具传播力的100首歌曲。",
+      "owner": "",
+      "trackCount": 100,
+      "mine": false,
+      "saved": false,
+      "coverAsset": "assets/capture/covers/cov021.jpg"
+    }
+  ],
+  "hotChart": {
+    "id": "3778678",
+    "name": "热歌榜",
+    "imageUrl": "https://p3.music.126.net/0SUEG8yDACfx0Bw2MYFv4Q==/109951170048519512.jpg",
+    "description": "云音乐热歌榜：云音乐用户一周内收听所有线上歌曲官方TOP排行榜，每日更新。",
+    "owner": "",
+    "trackCount": 200,
+    "mine": false,
+    "saved": false,
+    "coverAsset": "assets/capture/covers/cov015.jpg"
+  },
+  "hotTracks": [
+    {
+      "id": "3456047164",
+      "name": "Hong Kong (feat. 王菲季候风)",
+      "artists": [
+        {
+          "id": "185858",
+          "name": "The Weeknd",
+          "imageUrl": "",
+          "following": false
+        }
+      ],
+      "album": {
+        "id": "407156985",
+        "name": "Hong Kong (feat. 王菲季候风)",
+        "imageUrl": "https://p4.music.126.net/12-Tl1d-BT-_AwXMl7-MzQ==/109951174206326909.jpg",
+        "artists": [],
+        "released": "",
+        "saved": false,
+        "coverAsset": "assets/capture/covers/cov022.jpg"
+      },
+      "duration": 216993,
+      "url": "https://music.163.com/#/song?id=3456047164",
+      "unavailable": true
+    },
+    {
+      "id": "1973665667",
+      "name": "海屿你",
+      "artists": [
+        {
+          "id": "13288861",
+          "name": "马也_Crabbit",
+          "imageUrl": "",
+          "following": false
+        }
+      ],
+      "album": {
+        "id": "150006421",
+        "name": "海屿你",
+        "imageUrl": "https://p3.music.126.net/RfguLkQJ8aMVkiIaxdy70Q==/109951170483263672.jpg",
+        "artists": [],
+        "released": "",
+        "saved": false,
+        "coverAsset": "assets/capture/covers/cov023.jpg"
+      },
+      "duration": 295940,
+      "url": "https://music.163.com/#/song?id=1973665667",
+      "unavailable": false
+    },
+    {
+      "id": "1842728629",
+      "name": "如果呢",
+      "artists": [
+        {
+          "id": "29051613",
+          "name": "郑润泽",
+          "imageUrl": "",
+          "following": false
+        }
+      ],
+      "album": {
+        "id": "126985670",
+        "name": "如果呢",
+        "imageUrl": "https://p4.music.126.net/-xMsNLpquZTmMZlIztTgHg==/109951165953469081.jpg",
+        "artists": [],
+        "released": "",
+        "saved": false,
+        "coverAsset": "assets/capture/covers/cov024.jpg"
+      },
+      "duration": 257532,
+      "url": "https://music.163.com/#/song?id=1842728629",
+      "unavailable": false
+    },
+    {
+      "id": "167691",
+      "name": "天龙八部之宿敌",
+      "artists": [
+        {
+          "id": "5771",
+          "name": "许嵩",
+          "imageUrl": "",
+          "following": false
+        }
+      ],
+      "album": {
+        "id": "16936",
+        "name": "天龙八部之宿敌",
+        "imageUrl": "https://p3.music.126.net/Ezo6K3rPFowvnkDtxf-w6Q==/109951172321459335.jpg",
+        "artists": [],
+        "released": "",
+        "saved": false,
+        "coverAsset": "assets/capture/covers/cov025.jpg"
+      },
+      "duration": 263340,
+      "url": "https://music.163.com/#/song?id=167691",
+      "unavailable": true
+    },
+    {
+      "id": "287398",
+      "name": "我不难过",
+      "artists": [
+        {
+          "id": "9272",
+          "name": "孙燕姿",
+          "imageUrl": "",
+          "following": false
+        }
+      ],
+      "album": {
+        "id": "28539",
+        "name": "未完成",
+        "imageUrl": "https://p4.music.126.net/Pzxy6py26NgNmhJjYMf2RQ==/109951169724216323.jpg",
+        "artists": [],
+        "released": "",
+        "saved": false,
+        "coverAsset": "assets/capture/covers/cov026.jpg"
+      },
+      "duration": 320400,
+      "url": "https://music.163.com/#/song?id=287398",
+      "unavailable": true
+    },
+    {
+      "id": "1827600686",
+      "name": "还是会想你",
+      "artists": [
+        {
+          "id": "15199791",
+          "name": "林达浪",
+          "imageUrl": "",
+          "following": false
+        },
+        {
+          "id": "12631485",
+          "name": "h3R3",
+          "imageUrl": "",
+          "following": false
+        }
+      ],
+      "album": {
+        "id": "124309279",
+        "name": "还是会想你",
+        "imageUrl": "https://p3.music.126.net/9FhSEQtMhP-JP3_U84YfWQ==/109951165798773745.jpg",
+        "artists": [],
+        "released": "",
+        "saved": false,
+        "coverAsset": "assets/capture/covers/cov027.jpg"
+      },
+      "duration": 190063,
+      "url": "https://music.163.com/#/song?id=1827600686",
+      "unavailable": false
+    },
+    {
+      "id": "2741144144",
+      "name": "99",
+      "artists": [
+        {
+          "id": "1204010",
+          "name": "TizzyT",
+          "imageUrl": "",
+          "following": false
+        }
+      ],
+      "album": {
+        "id": "283311644",
+        "name": "99",
+        "imageUrl": "https://p3.music.126.net/D-kiZM7mbHrqdB6X8Yoi8Q==/109951171947326885.jpg",
+        "artists": [],
+        "released": "",
+        "saved": false,
+        "coverAsset": "assets/capture/covers/cov028.jpg"
+      },
+      "duration": 282188,
+      "url": "https://music.163.com/#/song?id=2741144144",
+      "unavailable": true
+    },
+    {
+      "id": "1456890009",
+      "name": "罗生门（Follow）",
+      "artists": [
+        {
+          "id": "33259235",
+          "name": "梨冻紧",
+          "imageUrl": "",
+          "following": false
+        },
+        {
+          "id": "13112601",
+          "name": "Wiz_H张子豪",
+          "imageUrl": "",
+          "following": false
+        }
+      ],
+      "album": {
+        "id": "91237927",
+        "name": "罗生门（Follow）",
+        "imageUrl": "https://p3.music.126.net/yN1ke1xYMJ718FiHaDWtYQ==/109951165076380471.jpg",
+        "artists": [],
+        "released": "",
+        "saved": false,
+        "coverAsset": "assets/capture/covers/cov029.jpg"
+      },
+      "duration": 243754,
+      "url": "https://music.163.com/#/song?id=1456890009",
+      "unavailable": false
+    },
+    {
+      "id": "3342319503",
+      "name": "明知故犯",
+      "artists": [
+        {
+          "id": "57539469",
+          "name": "Max李玄",
+          "imageUrl": "",
+          "following": false
+        }
+      ],
+      "album": {
+        "id": "357748854",
+        "name": "失温",
+        "imageUrl": "https://p3.music.126.net/H2DFRdwP2y5SuCAn-Tuikw==/109951172568091306.jpg",
+        "artists": [],
+        "released": "",
+        "saved": false,
+        "coverAsset": "assets/capture/covers/cov030.jpg"
+      },
+      "duration": 166416,
+      "url": "https://music.163.com/#/song?id=3342319503",
+      "unavailable": false
+    },
+    {
+      "id": "2600493765",
+      "name": "恋人",
+      "artists": [
+        {
+          "id": "4292",
+          "name": "李荣浩",
+          "imageUrl": "",
+          "following": false
+        }
+      ],
+      "album": {
+        "id": "250748750",
+        "name": "黑马",
+        "imageUrl": "https://p4.music.126.net/0bk3Iqe2OZGBH2Iuyx7RzA==/109951170045577565.jpg",
+        "artists": [],
+        "released": "",
+        "saved": false,
+        "coverAsset": "assets/capture/covers/cov031.jpg"
+      },
+      "duration": 275912,
+      "url": "https://music.163.com/#/song?id=2600493765",
+      "unavailable": true
+    },
+    {
+      "id": "3399839173",
+      "name": "甲乙丙丁 (你我怎么两清)",
+      "artists": [
+        {
+          "id": "8753",
+          "name": "李佳薇",
+          "imageUrl": "",
+          "following": false
+        }
+      ],
+      "album": {
+        "id": "384452271",
+        "name": "甲乙丙丁",
+        "imageUrl": "https://p3.music.126.net/H9iDvukTit_jx-fmhhvXUQ==/109951173482378749.jpg",
+        "artists": [],
+        "released": "",
+        "saved": false,
+        "coverAsset": "assets/capture/covers/cov032.jpg"
+      },
+      "duration": 210461,
+      "url": "https://music.163.com/#/song?id=3399839173",
+      "unavailable": true
+    },
+    {
+      "id": "3448039922",
+      "name": "茉茉",
+      "artists": [
+        {
+          "id": "123686693",
+          "name": "Nzwin 黄跃成",
+          "imageUrl": "",
+          "following": false
+        }
+      ],
+      "album": {
+        "id": "403862109",
+        "name": "茉茉",
+        "imageUrl": "https://p3.music.126.net/x9H0NVxO5ha9wWCOvW1-eQ==/109951174106566868.jpg",
+        "artists": [],
+        "released": "",
+        "saved": false,
+        "coverAsset": "assets/capture/covers/cov033.jpg"
+      },
+      "duration": 120169,
+      "url": "https://music.163.com/#/song?id=3448039922",
+      "unavailable": true
+    }
+  ]
+}
